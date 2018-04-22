@@ -8,7 +8,7 @@ function init() {
      if (index == code.length){
       alert("hurray!");
       index = 0;
+     }
     } else index = 0;
   });
  }
-}
